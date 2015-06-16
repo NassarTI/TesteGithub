@@ -1,0 +1,10 @@
+public class QualquerCoisa(){
+	
+	public QualquerCoisa(){
+
+	}
+
+	public void metodo 1(){
+
+	}
+}
