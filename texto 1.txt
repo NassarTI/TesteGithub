@@ -1,0 +1,20 @@
+public class QualquerCoisa(){
+	
+	public QualquerCoisa(){
+
+	}
+
+	public void metodo 1(){
+
+	}
+
+	public void metodo 2(){
+
+	}
+
+	public boolean metodo 3(){
+	return false;
+	}
+
+
+}
