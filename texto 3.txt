@@ -4,7 +4,7 @@ public class QualquerCoisa(){
 
 	}
 
-	public void metodo 1(){
+	public void metodo xxxx(){
 
 	}
 }
